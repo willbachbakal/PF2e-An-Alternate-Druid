@@ -1,6 +1,6 @@
 {
-  "id": "",
-  "title": "",
+  "id": "rust-order",
+  "title": "Rust Order",
   "version": "#{VERSION}#",
   "library": "false",
   "compatibility": {
@@ -20,7 +20,7 @@
       }
     }
   },
-  "description": "",
+  "description": "A homebrew subclass for the Druid class in Pathfinder Second Edition, focusing on metal in all its forms.",
   "authors": [
     {
       "name": "Teridax68",
@@ -29,9 +29,9 @@
   ],
   "packs": [
     {
-      "name": "",
-      "label": "",
-      "path": "packs/",
+      "name": "rust-order",
+      "label": "Rust Order",
+      "path": "packs/rust-order",
       "type": "Item",
       "system": "pf2e",
       "flags": {}
@@ -44,5 +44,5 @@
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
   "license": "LICENSE",
-  "readme": ""
+  "readme": "https://homebrewery.naturalcrit.com/share/fa3dp7EoeH3R"
 }
