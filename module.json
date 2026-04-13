@@ -1,6 +1,6 @@
 {
-  "id": "rust-order",
-  "title": "Rust Order",
+  "id": "an-alternate-druid",
+  "title": "An Alternate Druid",
   "version": "#{VERSION}#",
   "library": "false",
   "compatibility": {
@@ -20,7 +20,7 @@
       }
     }
   },
-  "description": "A homebrew subclass for the Druid class in Pathfinder Second Edition, focusing on metal in all its forms.",
+  "description": "A small set of late-level scaling adjustments to the Druid class in Pathfinder Second Edition, also featuring a homebrew subclass that focuses on metal in all its forms.",
   "authors": [
     {
       "name": "Teridax68",
@@ -29,9 +29,9 @@
   ],
   "packs": [
     {
-      "name": "rust-order",
-      "label": "Rust Order",
-      "path": "packs/rust-order",
+      "name": "an-alternate-druid",
+      "label": "An Alternate Druid",
+      "path": "packs/an-alternate-druid",
       "type": "Item",
       "system": "pf2e",
       "flags": {}
