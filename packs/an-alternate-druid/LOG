@@ -1,0 +1,5 @@
+2026/04/13-11:59:45.704 cd8 Recovering log #34
+2026/04/13-11:59:45.705 cd8 Level-0 table #36: started
+2026/04/13-11:59:45.715 cd8 Level-0 table #36: 100916 bytes OK
+2026/04/13-11:59:45.723 cd8 Delete type=0 #34
+2026/04/13-11:59:45.723 cd8 Delete type=3 #33
